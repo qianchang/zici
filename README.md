@@ -59,6 +59,7 @@
 - [有字体](https://www.youziku.com/)
 - [求字体](http://www.qiuziti.com)
 - [字体爬虫](https://github.com/aui/font-spider)
+- [forsigner/web-fontmin ](https://github.com/forsigner/web-fontmin)
 - [中文书刊排版相关标准和规范](https://github.com/Haixing-Hu/typesetting-standard)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
@@ -68,6 +69,7 @@
 - [语料库在线](http://www.aihanyu.org/cncorpus/index.aspx)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [在线的比较成熟的语料库有哪些？](https://www.zhihu.com/question/20447189)
+- [汉字拼音相关参考资料](https://github.com/overtrue/pinyin-resources)
 
 ### 拼音TTS语音库
 
