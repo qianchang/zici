@@ -45,6 +45,7 @@
 
 ### 中文数据挖掘、自然语言处理
 
+- [THULAC：一个高效的中文词法分析工具包](http://thulac.thunlp.org/)
 - [互联网时代的社会语言学：基于SNS的文本数据挖掘](http://www.matrix67.com/blog/archives/5044)
 
 
