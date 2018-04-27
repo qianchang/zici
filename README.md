@@ -10,15 +10,15 @@
 
 单字频率列表：
 
-- [古汉语单字字频](data/lingua.mtshu.edu/char_classical.txt) 
-- [现代汉语单字字频](data/lingua.mtshu.edu/char_modern.txt) | [现代文学类文本](data/lingua.mtshu.edu/char_imaginative_modern.txt) | [现代汉语信息类文本](data/lingua.mtshu.edu/char_informative_modern.txt)
-- [汉字单字字频总表](data/lingua.mtshu.edu/char_combined.txt)
-- [现代汉语常用字表](data/lingua.mtshu.edu/xdhy_fre_char.txt)
+- [古汉语单字字频](data/lingua.mtsu.edu/char_classical.txt) 
+- [现代汉语单字字频](data/lingua.mtsu.edu/char_modern.txt) | [现代文学类文本](data/lingua.mtsu.edu/char_imaginative_modern.txt) | [现代汉语信息类文本](data/lingua.mtsu.edu/char_informative_modern.txt)
+- [汉字单字字频总表](data/lingua.mtsu.edu/char_combined.txt)
+- [现代汉语常用字表](data/lingua.mtsu.edu/xdhy_fre_char.txt)
 
 双字组频率列表：
 
-- [新闻类文本双字组频率](data/lingua.mtshu.edu/news_bigram.txt)
-- [一般小说类文本双字组效率](data/lingua.mtshu.edu/normal_novel_bigram.txt)
+- [新闻类文本双字组频率](data/lingua.mtsu.edu/news_bigram.txt)
+- [一般小说类文本双字组效率](data/lingua.mtsu.edu/normal_novel_bigram.txt)
 
 #### 拼音语音
 
