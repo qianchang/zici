@@ -57,6 +57,7 @@
 
 ### 中文字体及排版
 
+- [字由](http://www.hellofont.cn/)
 - [有字体](https://www.youziku.com/)
 - [求字体](http://www.qiuziti.com)
 - [字体爬虫](https://github.com/aui/font-spider)
