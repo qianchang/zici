@@ -37,6 +37,8 @@
 - node/javascript ：[hotoo/pinyin](https://github.com/hotoo/pinyin)
 - javascript ：[sxei/pinyinjs](https://github.com/sxei/pinyinjs)
 
+>   延伸阅读：[《我爱拼音》](https://thetype.com/2017/08/11606/)
+
 ### 中文分词
 
 - [结巴中文分词](https://github.com/fxsjy/jieba) | [结巴中文分词C++版](https://github.com/yanyiwu/cppjieba)
