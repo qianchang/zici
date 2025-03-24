@@ -90,8 +90,8 @@
 
 最近 AI 及其模型发展很迅猛，一些大模型本身就训练不少中文资料，尝试可以使用它来做一些中文字词、拼音等相关的研究工作。
 
-- AI Web Chat: 低成本新秀 [Deepseek](https://deepseek.com/)、创始者[ChatGPT](https://chatgpt.com/)与马斯克的[Grok](https://grok.com/) 等，当然国内三巨头也有 AI布局，阿里的通义千问，字节的豆包以及腾讯的元宝。
-- 基于大模型的声音克隆与合成框架：[Seed-TTS](https://github.com/BytedanceSpeech/seed-tts-eval/) 、[Fish-Speech](https://github.com/fishaudio/fish-speech)、[OpenVoice](https://github.com/myshell-ai/OpenVoice) 与 [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) 等等。
-
+- AI Web Chat: 低成本新秀 [Deepseek](https://deepseek.com/)、创始者[ChatGPT](https://chatgpt.com/) 与 马斯克的 [Grok](https://grok.com/) 等；当然国内三巨头也有 AI布局：阿里的通义千问，字节的豆包以及腾讯的元宝。
+- 基于大模型的声音克隆与合成框架：[ChatTTS](https://github.com/2noise/ChatTTS)、[Seed-TTS](https://github.com/BytedanceSpeech/seed-tts-eval/) 、[Fish-Speech](https://github.com/fishaudio/fish-speech)、[OpenVoice](https://github.com/myshell-ai/OpenVoice) 与 [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) 等等。
+- AI 应用示例：使用 AI 结合康熙字典、中国传统古典著作（如诗经、楚辞、论语、唐诗与宋词等）等数据给宝贝取名；在聊天 IM 中接入 AI 机器人来实现成语接龙、诗词飞花令等寓教于乐小游戏；借助复杂的智能体及工作流来生成启蒙识字卡片、儿童睡前故事等。
 
 
