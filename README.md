@@ -25,6 +25,7 @@
 >	来自[Yabla](https://chinese.yabla.com/chinese-pinyin-chart.php)资源，仅供学习使用，如有侵权请 `email` 告知。
 
 - [Mandarin Chinese Pinyin Audio](data/pinyin/audio/alicia.zip)
+- [现代汉语所有带声调拼音](/data/pinyin/with-tone.txt)，注意：最后 3 列（也就是 `ê:ê̄,ế,ê̌,ề|m:m̄,ḿ, ,m̀,|n: ,ń,ň,ǹ` ）为罕见音节，`m` 音节没有上声，`n` 音节没有阴平。
 
 ### 汉字转拼音
 
@@ -77,7 +78,7 @@
 
 ### 拼音TTS语音库
 
-- [eGuideDog  Ekho Voice Data ](https://sourceforge.net/projects/e-guidedog/files/Ekho%20Voice%20Data/0.2/)
+- [eGuideDog Ekho Voice Data ](https://sourceforge.net/projects/e-guidedog/files/Ekho%20Voice%20Data/0.2/)
 - [say.js](https://github.com/Marak/say.js)
 
 ### 国学在线资源
