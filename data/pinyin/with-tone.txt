@@ -415,5 +415,6 @@ wan:wān,wán,wǎn,wàn
 wen:wēn,wén,wěn,wèn
 wang:wāng,wáng,wǎng,wàng
 weng:wēng,wéng,wěng,wèng
+ê:ê̄,ế,ê̌,ề
 m:m̄,ḿ, ,m̀,
 n: ,ń,ň,ǹ
