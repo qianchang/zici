@@ -69,7 +69,7 @@
 
 ### 语料库/知识库
 
-- [BBC语料库](http://bcc.blcu.edu.cn/)
+- [BCC语料库](http://bcc.blcu.edu.cn/)
 - [语料库在线](http://www.aihanyu.org/cncorpus/index.aspx)
 - [中华语文知识库](http://www.zhonghuayuwen.org/)
 - [在线的比较成熟的语料库有哪些？](https://www.zhihu.com/question/20447189)
