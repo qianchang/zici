@@ -86,6 +86,12 @@
 - [国学网](http://www.guoxue.com)
 - [国学大师](http://www.guoxuedashi.com/)
 
+### AI 大模型
+
+最近 AI 及其模型发展很迅猛，一些大模型本身就训练不少中文资料，尝试可以使用它来做一些中文字词、拼音等相关的研究工作。
+
+- AI Web Chat: 低成本新秀 [Deepseek](https://deepseek.com/)、创始者[ChatGPT](https://chatgpt.com/)与马斯克的[Grok](https://grok.com/) 等，当然国内三巨头也有 AI布局，阿里的通义千问，字节的豆包以及腾讯的元宝。
+- 基于大模型的声音克隆与合成框架：[Seed-TTS](https://github.com/BytedanceSpeech/seed-tts-eval/) 、[Fish-Speech](https://github.com/fishaudio/fish-speech)、[OpenVoice](https://github.com/myshell-ai/OpenVoice) 与 [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) 等等。
 
 
 
