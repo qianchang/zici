@@ -236,6 +236,7 @@ ji:jī,jí,jǐ,jì
 ju:jū,jú,jǔ,jù
 jiu:jiū,jiú,jiǔ,jiù
 jie:jiē,jié,jiě,jiè
+jue:juē,jué,juě,juè
 jin:jīn,jín,jǐn,jìn
 jun:jūn,jún,jǔn,jùn
 jing:jīng,jíng,jǐng,jìng
@@ -249,6 +250,7 @@ qi:qī,qí,qǐ,qì
 qu:qū,qú,qǔ,qù
 qiu:qiū,qiú,qiǔ,qiù
 qie:qiē,qié,qiě,qiè
+que:quē,qué,quě,què
 qin:qīn,qín,qǐn,qìn
 qun:qūn,qún,qǔn,qùn
 qing:qīng,qíng,qǐng,qìng
@@ -262,6 +264,7 @@ xi:xī,xí,xǐ,xì
 xu:xū,xú,xǔ,xù
 xiu:xiū,xiú,xiǔ,xiù
 xie:xiē,xié,xiě,xiè
+xue:xuē,xué,xuě,xuè
 xin:xīn,xín,xǐn,xìn
 xun:xūn,xún,xǔn,xùn
 xing:xīng,xíng,xǐng,xìng
@@ -400,11 +403,13 @@ yi:yī,yí,yǐ,yì
 yu:yū,yú,yǔ,yù
 yao:yāo,yáo,yǎo,yào
 you:yōu,yóu,yǒu,yòu
+yue:yuē,yué,yuě,yuè
 yan:yān,yán,yǎn,yàn
 yin:yīn,yín,yǐn,yìn
 yun:yūn,yún,yǔn,yùn
 yang:yāng,yáng,yǎng,yàng
 ying:yīng,yíng,yǐng,yìng
+yong:yōng,yóng,yǒng,yòng
 yuan:yuān,yuán,yuǎn,yuàn
 wa:wā,wá,wǎ,wà
 wo:wō,wó,wǒ,wò
